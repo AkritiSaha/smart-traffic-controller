@@ -1,0 +1,14 @@
+# Smart Traffic Light Controller - Requirements
+# Install: pip install -r requirements.txt
+
+# Core (always needed)
+numpy>=1.21.0
+
+# For OpenCV vehicle detection (optional - needed for camera mode)
+opencv-python>=4.5.0
+
+# For YOLO advanced detection (optional)
+ultralytics>=8.0.0
+
+# For data visualization (optional)
+matplotlib>=3.4.0
